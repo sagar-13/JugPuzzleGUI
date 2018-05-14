@@ -1,0 +1,73 @@
+# Fill in, commit and push each day.
+
+	
+Oct 9, 2016
+	Yesterday : 
+	Today     : Familiarized self with Java GUI to prepare for assignment. 
+				Revisit Lab Week05. 
+	Obstacles : 
+	
+Oct 10, 2016
+	Yesterday : Completed the important parts of LabWeek05
+	Today     : Start working on the assignment, aim for visible GUI.
+	Obstacles : Lack of understanding about the design.
+	
+Oct 11, 2016
+	Yesterday : Finished visible GUI.
+	Today     : Working on Make Move.
+	Obstacles : Trouble understanding how to design everything.
+				where everything goes etc.
+	
+Oct 12, 2016
+	Yesterday : Finished Make Move but I did not use Observer for anything. 
+				I just passed whatever I wanted to update to my ActionListener 
+				and made the changes over there. Make Move technically is 
+				finished but I'll need to go back and do it again.
+				Also tried working on the getting a move counter JLabel
+				to update after each move is made but did not get it 
+				working so moving that to this sprint.
+	Today     : The focus for today is understanding everything because the
+				past few work sessions have been problematic. 
+
+				Will be using Sadia's balloon example today to create more 
+				things that use observers so I don't have to keep passing
+				everything to the ActionListener to change.
+	Obstacles : Struggled for a long time wondering why things weren't
+				updating. Realized I had to do setChanged before notifying
+				observers.
+				
+Oct 13, 2016
+	Yesterday : Used a bunch of Observer classes, linked them to everything
+				on the GUI including 3 textFields (JugViews), move counter
+				(MovesView), and a JLabel which prints out what just 
+				happened (JugPuzzleView). I don't know if I need all these
+				different observers for different tasks but things are 
+				clean and organized this way. 
+	Today     : 
+	Obstacles :
+	
+Oct 14, 2016
+	Yesterday : 
+	Today     : Goal for today is to finish win alert, win halts game, 
+				quit any time, and being able to start a new game somehow.
+				Very puzzled on how to do the new game thing the way I have
+				it set up but it should go smoothly.
+	Obstacles : 
+	
+Oct 15, 2016
+	Yesterday : Ended up completing every user story that was left. Even 
+				made dialog box for when game is won. Every single user
+				story finished. Code polished up and shortened too.
+	Today     : Javadoc everything that hasn't already been done, add
+				comments to everything, get code ready for submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday : Finished everything. Added extra things like colour, 
+				button disabling when jug selected etc. 
+	Today     : Final Edit, added User Stories for some additional things
+				completed yesterday. Polish up code even more. Final submit.
+	Obstacles :
+	
+
+	
